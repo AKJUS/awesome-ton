@@ -220,7 +220,10 @@ A carefully curated collection of outstanding libraries, tools, services, protoc
 - [TON Connect](https://github.com/ton-connect/) - Standard protocol for dApps and wallets.
 - [delab-team/connect](https://github.com/delab-team/connect) - Multi-protocol SDK with unified interface.
 - [@tonconnect/sdk](https://www.npmjs.com/package/@tonconnect/sdk) - JavaScript SDK for TON Connect 2.0.
-- [tonutils/tonconnect](https://github.com/nessshon/tonutils?tab=readme-ov-file#ton-connect-integration) - Python SDK for TON Connect.
+- [tonutils/tonconnect](https://github.com/nessshon/tonutils/tree/main/tonutils/tonconnect) - Python SDK for TON Connect.
+- [C#/tonconnect](https://github.com/continuation-team/TonSdk.NET/tree/main/TonSDK.Connect) - C# SDK for TON Connect.
+- [unity/tonconnect](https://github.com/continuation-team/unity-ton-connect) - Unity SDK for TON Connect.
+- [go/tonconnect](https://github.com/cameo-engineering/tonconnect) - GO SDK for TON Connect.
 - [pytonconnect](https://pypi.org/project/pytonconnect/) - Alternative Python SDK.
 - [darttonconnect](https://github.com/romanovichim/dartTonconnect) - Dart SDK for mobile apps.
 

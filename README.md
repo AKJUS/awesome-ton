@@ -7,6 +7,12 @@
 [![Telegram Foundation Group](https://img.shields.io/badge/TON%20Foundation-0098EA?logo=telegram&logoColor=white&style=flat)](https://t.me/tonblockchain)
 [![Twitter Group](https://img.shields.io/twitter/follow/ton_blockchain)](https://twitter.com/ton_blockchain)
 
+> [!WARNING]
+> This repository is archived and is more likely to be out of date.
+> 
+> Visit the [Dev Portal](https://ton.org/dev) to learn more about the development on TON
+
+
 A carefully curated collection of outstanding libraries, tools, services, protocols, and smart contracts in the TON ecosystem. This list serves as a comprehensive resource for developers, researchers, and enthusiasts interested in building on The Open Network.
 
 ---
